@@ -1,2 +1,2 @@
 /Library/Frameworks/Mono.framework/External/xbuild/Xamarin/Android/Xamarin.Android.Common.targets(2,2): Error MSB3030: Could not copy the file "Resources/layout/LocalPdfView.axml" because it was not found. (MSB3030) (Auto  weee Guide.Droid).  
-Weee
+lolll
